@@ -1,0 +1,34 @@
+{
+    "contacts": [
+      {
+        "name": "John",
+        "phone": "555551111",
+        "id": 2
+      },
+      {
+        "name": "Dan",
+        "phone": "22222",
+        "id": 5
+      },
+      {
+        "name": "Peter",
+        "phone": "122121",
+        "id": 7
+      },
+      {
+        "name": "Tony",
+        "phone": "5543434",
+        "id": 7
+      },
+      {
+        "name": "Sally",
+        "phone": "2211211",
+        "id": 7
+      },
+      {
+        "name": "Kate",
+        "phone": "00988808",
+        "id": 7
+      }
+    ]
+  }
